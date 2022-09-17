@@ -1,5 +1,5 @@
 """
-neg_pot.py
+neg_pot_new.py
 """
 import numpy as np
 from numpy import log, log2
