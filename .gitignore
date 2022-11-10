@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 # nisp specific
-Figure
+Figures
 gamma_var
 Jp_alpha_var
 psis_data
